@@ -3,10 +3,10 @@ youtube_api_key = "AIzaSyBEzB4SsE2nPPSVo-m5qVuBhFhCHViSWJI"
 
 
 #-----------[DISCORD WEBHOOK SETTINGS]-----------
-discord_webhook_logging = True #decides whether to log in to the console or through a discord webhook
+discord_webhook_logging = False #decides whether to log in to the console or through a discord webhook
 webhook_url = "ENTER WEBHOOK URL" #only necessary if discord_webhook_logging is True
 
-use_predetermined_webhook_settings = False #decides if to use predetermined webhook avatar and username. If set to False, will use the webhooks avatar and username specified in discord
+use_predetermined_webhook_settings = True #decides if to use predetermined webhook avatar and username. If set to False, will use the webhooks avatar and username specified in discord
 
 
 
