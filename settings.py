@@ -1,4 +1,4 @@
-youtube_api_key = "ENTER YOUTUBE API KEY"
+youtube_api_key = "AIzaSyBEzB4SsE2nPPSVo-m5qVuBhFhCHViSWJI"
 
 
 
